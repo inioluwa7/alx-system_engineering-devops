@@ -1,2 +1,1 @@
-#!/bin/bash
-export BEST="SCHOOL"
+#!/bin/bash\nexport BEST = "School"
